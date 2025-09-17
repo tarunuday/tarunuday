@@ -1,11 +1,12 @@
 ## 👋 Hello! I'm Tarun
 
-I am an engineer from 🌴 Kochi, India, currently based in 🌉 San Francisco, California.
+I am an engineer from Kochi, India 🌴 
+Currently based in San Francisco, California 🌉
 
 I studied Production Engineering at NIT Calicut, India, and did my grad school in Mechanical Engineering at Northeastern University, Boston.
 While in grad school, I got interested in working on robotics, and then went on to become a software engineer.
 
-I currently work as an [UI Frameworks engineer](https://www.apple.com/macos/) at 🍎 Apple. 
+I currently work as a [UI Frameworks engineer](https://www.apple.com/macos/) at Apple. 
 
 I'm interested in writing code involving robotics, graphics, math and designing for hardware, among other things. 
 I am an avid history buff, and in my spare time take nightscape photos, and enjoy astronomy.
